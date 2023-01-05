@@ -1,3 +1,9 @@
+A useful tool to generate preset address by create2 
+
+* bytecode
+* deployer address
+
+---
 # Styled EVM address miner
 
 Get your own 0x0000...0000 EVM contract address by mining a CREATE2 salt!
